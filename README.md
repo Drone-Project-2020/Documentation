@@ -1,2 +1,3 @@
 # Documentation
-Main documentation repository for the project.
+
+Refer to the [Wiki](https://github.com/Drone-Project-2020/Documentation/wiki) section to get full documentation.
